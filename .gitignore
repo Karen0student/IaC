@@ -1,0 +1,20 @@
+# Terraform
+VM_Deployment_Terraform/.terraform/
+VM_Deployment_Terraform/*.tfstate
+VM_Deployment_Terraform/*.tfstate.*
+VM_Deployment_Terraform/*.tfplan
+VM_Deployment_Terraform/crash.log
+VM_Deployment_Terraform/override.tf
+VM_Deployment_Terraform/override.tf.json
+VM_Deployment_Terraform/*_override.tf
+VM_Deployment_Terraform/*_override.tf.json
+VM_Deployment_Terraform/.terraform.locl.hcl
+
+# Local variables and secrets
+VM_Deployment_Terraform/*.tfvars
+VM_Deployment_Terraform/*.tfvars.json
+VM_Deployment_Terraform/*.pem
+VM_Deployment_Terraform/*.key
+
+# OS images
+VM_Deployment_Terraform/images/*
