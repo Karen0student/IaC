@@ -8,7 +8,7 @@ VM_Deployment_Terraform/override.tf
 VM_Deployment_Terraform/override.tf.json
 VM_Deployment_Terraform/*_override.tf
 VM_Deployment_Terraform/*_override.tf.json
-VM_Deployment_Terraform/.terraform.locl.hcl
+VM_Deployment_Terraform/.terraform.lock.hcl
 
 # Local variables and secrets
 VM_Deployment_Terraform/*.tfvars
